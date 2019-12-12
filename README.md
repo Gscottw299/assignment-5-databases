@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run-script dev`
+
+Runs "npm start" and "nodemon server/server.js" to run front-end with back-end concurrently
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
